@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f48bb36-24d1-44b8-b709-37ddb1d27e06" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="5f48bb36-24d1-44b8-b709-37ddb1d27e06" name="Default" comment="" />
     <ignored path="test1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,8 +49,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="620" />
-    <option name="y" value="124" />
+    <option name="x" value="-29" />
+    <option name="y" value="186" />
     <option name="width" value="1370" />
     <option name="height" value="770" />
   </component>
@@ -119,7 +117,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="620" y="124" width="1370" height="770" extended-state="0" />
+    <frame x="-29" y="186" width="1370" height="770" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.090103395" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
